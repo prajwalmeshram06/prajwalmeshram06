@@ -9,7 +9,7 @@ B.Tech CSE @ IIIT Guwahati
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+Web+Development;DSA+Enthusiast;Future+Cloud+%26+AI%2FML+Explorer;Consistency+Beats+Intensity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=IIIT+Guwahati+CSE;Web+Development;Data+Structures+%26+Algorithms;Cloud+%7C+AI%2FML+Next;Keep+Moving+Forward" />
 </p>
 
 ---
@@ -28,8 +28,6 @@ B.Tech CSE @ IIIT Guwahati
 ## ⚔️ Current Training Arc
 
 ```text
-Hash Maps      ██████████░░░░
-Hash Sets      ██████████░░░░
 JavaScript     ████████░░░░░░
 Web Dev        ███████░░░░░░░
 Cloud          ░░░░░░░░░░░░░░
@@ -115,8 +113,7 @@ AI/ML          ░░░░░░░░░░░░░░
 ## 🎯 Current Mission
 
 ```text
-Reach 200+ LeetCode Problems
-Complete FCC JavaScript
+Full Stack Web Dev
 Build Real Projects
 Prepare for Internships
 ```
