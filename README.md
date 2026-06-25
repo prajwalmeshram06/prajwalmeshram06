@@ -1,27 +1,40 @@
-# Hi, I'm Prajwal Meshram 👋
+<h1 align="center">🏴‍☠️ Prajwal Meshram</h1>
 
-🎓 B.Tech CSE Student at IIIT Guwahati
+<h3 align="center">
+B.Tech CSE @ IIIT Guwahati
+</h3>
 
-💻 Passionate about Software Development, Data Structures & Algorithms, and Web Development.
+<p align="center">
+🌐 Web Development • 💻 DSA • ☁️ Cloud (Next) • 🤖 AI/ML (Future)
+</p>
 
-🌱 Currently learning JavaScript and Web Development.
-
-🎯 Future Goals:
-
-* Cloud Computing
-* AI/ML
-* Full Stack Development
-* Software Engineering Internships
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+Web+Development;DSA+Enthusiast;Future+Cloud+%26+AI%2FML+Explorer;Consistency+Beats+Intensity" />
+</p>
 
 ---
 
-## 🚀 About Me
+## ⚓ About Me
 
-* 🎓 Computer Science undergraduate at IIIT Guwahati
-* 💡 Interested in problem solving and software engineering
-* 📚 Consistently improving DSA through LeetCode
-* 🌐 Exploring modern Web Development
-* ⚡ Strong believer in learning by building
+* 🎓 B.Tech CSE Student at IIIT Guwahati
+* 💻 Passionate about Software Development and Problem Solving
+* 📚 Currently learning JavaScript and Web Development
+* 🚀 Solving LeetCode regularly to strengthen DSA
+* ☁️ Next destination: Cloud Computing
+* 🤖 Future exploration: AI/ML
+
+---
+
+## ⚔️ Current Training Arc
+
+```text
+Hash Maps      ██████████░░░░
+Hash Sets      ██████████░░░░
+JavaScript     ████████░░░░░░
+Web Dev        ███████░░░░░░░
+Cloud          ░░░░░░░░░░░░░░
+AI/ML          ░░░░░░░░░░░░░░
+```
 
 ---
 
@@ -45,40 +58,73 @@
 
 ---
 
-## 📊 Coding Journey
+## 📊 GitHub Stats
 
-* ✅ 85+ LeetCode Problems Solved
-* 📚 Actively Practicing DSA
-* 🎯 Focused on mastering Hash Maps, Sets, and Problem Solving Patterns
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prajwalmeshram06&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmeshram06&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚧 Projects
+## 🏆 LeetCode Journey
 
-Projects will be added here as I continue learning and building.
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/76cjWoRVvE?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
-Upcoming areas:
+* ✅ 85+ Problems Solved
+* 🎯 Currently mastering Hash Maps & Sets
+* 🚀 Goal: 200+ Problems Before Next Semester
 
-* JavaScript Projects
-* Frontend Development
-* Full Stack Applications
-* Cloud-Based Projects
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prajwal-meshram-91b82139b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/76cjWoRVvE/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
+
+---
+
+## 🚧 Future Projects
+
+### 🏴‍☠️ One Piece Arc
+
+* Portfolio Website
+* Full Stack Web Application
+
+### ⚔️ Demon Slayer Arc
+
+* Cloud Deployment Projects
+* DevOps Fundamentals
+
+### ✨ Wistoria Arc
+
 * AI/ML Experiments
+* Intelligent Applications
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Mission
 
-### LinkedIn
-
-https://www.linkedin.com/in/prajwal-meshram-91b82139b/
-
-### LeetCode
-
-https://leetcode.com/u/76cjWoRVvE/
+```text
+Reach 200+ LeetCode Problems
+Complete FCC JavaScript
+Build Real Projects
+Prepare for Internships
+```
 
 ---
 
-### Quote I Follow
+<div align="center">
 
-> Consistency beats intensity when intensity is temporary.
+### ☠️ "The journey to becoming a great developer is built one commit, one bug, and one solved problem at a time."
+
+</div>
