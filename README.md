@@ -28,8 +28,6 @@ Software Development • Data Structures & Algorithms • Computer Vision
 
 ## CubeStudio — Interactive Rubik's Cube Simulator & Solver
 
-
-
 CubeStudio is an interactive 3D Rubik's Cube simulator and solver built using Three.js.
 
 The project focuses on real-time 3D interaction, cube state management, solving algorithms, and computer vision-based cube detection.
@@ -94,9 +92,15 @@ Repository:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prajwalmeshram06&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajwalmeshram06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmeshram06&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prajwalmeshram06&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalmeshram06&theme=tokyonight&hide_border=true"/>
 
 </p>
 
