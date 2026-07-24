@@ -28,9 +28,7 @@ Software Development • Data Structures & Algorithms • Computer Vision
 
 ## CubeStudio — Interactive Rubik's Cube Simulator & Solver
 
-<p align="center">
-<img src="./assets/cubestudio-preview.png" width="850">
-</p>
+
 
 CubeStudio is an interactive 3D Rubik's Cube simulator and solver built using Three.js.
 
