@@ -106,7 +106,7 @@ Repository:
 
 </p>
 
-- 120+ problems solved
+- 230+ problems solved
 - Regularly practicing Data Structures & Algorithms
 - Target: 500+ problems
 
