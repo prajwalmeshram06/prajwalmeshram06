@@ -110,7 +110,7 @@ Repository:
 
 </p>
 
-* 230+ problems solved
+* 250+ problems solved
 * Regularly practicing Data Structures & Algorithms
 * Target: 500+ problems
 
